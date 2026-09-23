@@ -1,0 +1,6 @@
+{
+  "name": "rallies-tracker",
+  "private": true,
+  "scripts": {"scrape": "node scrape.js"},
+  "dependencies": {"playwright": "^1.55.0"}
+}
