@@ -1,6 +1,7 @@
 name: Track Rallies GPT and Grok
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron: '7 1,7,13,19 * * *'
