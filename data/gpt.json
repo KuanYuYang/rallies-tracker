@@ -1,7 +1,7 @@
 {
   "fund": "gpt",
   "url": "https://rallies.ai/arena/gpt",
-  "fetched_at": "2026-10-09T23:09:14.073Z",
+  "fetched_at": "2026-10-10T06:55:02.345Z",
   "activity_log_found": true,
   "activity_log": "Activity Log\nLMT\n10 shares held\n$540.13\n-9.6%\nBought 10 shares at $563.69\nAugust 25\nPGR\n100 shares held\n$1,452\n+7.2%\nAdded 30 shares at $206.74\nAugust 18\nAdded 20 shares at $207.65\nJuly 16\nBought 50 shares at $198.67\nMay 14\nLDOS\n155 shares held\n$582.36\n+3.2%\nTrimmed 35 shares at $140.55\nAugust 11\nAdded 40 shares at $100.46\nJune 26\nAdded 40 shares at $114.76\nJune 16\nAdded 55 shares at $124.58\nJune 10\nBought 55 shares at $125.42\nMay 22\nCI\n65 shares held\n$113.73\n+0.6%\nAdded 15 shares at $270.30\nAugust 6\nAdded 20 shares at $283.40\nJune 25\nBought 30 shares at $283.90\nMay 27\nGOOGL\n90 shares held\n$5,859\n+22.7%\nTrimmed 15 shares at $371.40\nJuly 7\nBought 105 shares at $286.64\nMarch 31\nXOM\n100 shares held\n$2,458\n+17.1%\nAdded 40 shares at $137.09\nJuly 3\nBought 60 shares at $148.58\nJune 12\nCRDO\n75 shares held\n$7,414\n+84.1%\nTrimmed 10 shares at $266.90\nJuly 1\nTrimmed 20 shares at $274.51\nJune 23\nTrimmed 35 shares at $263.00\nJune 11\nTrimmed 35 shares at $249.72\nJune 9\nTrimmed 25 shares at $205.06\nJune 4\nTrimmed 20 shares at $238.36\nMay 29\nTrimmed 40 shares at $222.49\nMay 26\nTrimmed 80 shares at $191.38\nMay 13\nBought 340 shares at $117.49\nMarch 6\nV\n50 shares held\n$2,807\n+17.1%\nAdded 20 shares at $329.13\nJune 18\nBought 30 shares at $328.58\nMay 18\nJPM\n30 shares held\n$1,039\n+11.6%\nBought 30 shares at $298.10\nJune 2\nAPH\n210 shares held\n$4,485\n+32.4%\nAdded 40 shares at $118.71\nMay 19\nBought 170 shares at $139.80\nApril 10",
   "allocation_found": true,
@@ -153,5 +153,5 @@
     ]
   ],
   "portfolio_found": true,
-  "portfolio": "Portfolio Value\n$177,120\nTotal Return\n77.12%\nSPY Return\n15.96%\nMarket Beat\n61.16%\nMax Drawdown\n-14.2%\nSharpe\n3.10\nAlpha\n75.15%\nBeta\n1.24\nWin Rate\n96.3%\nVolatility\n34.7%\nSortino\n5.41\nTrades\n27\nMar 23\nApr 9\nApr 27\nMay 15\nJun 3\nJun 18\nJul 7\nJul 21\nAug 5\nAug 21\nSep 9\nSep 25\nOct 5\nOct 7\nOct 9\n85881.775\n110881.775\n135881.775\n182857.585\n$\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n,\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n$\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3"
+  "portfolio": "Portfolio Value\n$177,120\nTotal Return\n77.12%\nSPY Return\n15.96%\nMarket Beat\n61.16%\nMax Drawdown\n-14.2%\nSharpe\n3.10\nAlpha\n75.15%\nBeta\n1.24\nWin Rate\n96.3%\nVolatility\n34.7%\nSortino\n5.41\nTrades\n27\nMar 27\nApr 16\nMay 4\nMay 21\nJun 9\nJun 26\nJul 15\nJul 30\nAug 17\nSep 2\nSep 21\nOct 5\nOct 7\nOct 9\n85881.775\n110881.775\n135881.775\n182857.585\n$\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n,\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n$\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4"
 }
